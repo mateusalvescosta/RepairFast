@@ -1,0 +1,11 @@
+Problema e Contexto
+
+A gestão de riscos operacionais em ambientes industriais depende diretamente da qualidade da comunicação, da rastreabilidade das informações e da capacidade de transformar ocorrências em aprendizado preventivo. No entanto, na prática, muitas organizações ainda operam com processos fragmentados, registros informais e ausência de acompanhamento estruturado das ocorrências, o que compromete a eficácia das ações de segurança.
+
+Diversos estudos e casos amplamente divulgados demonstram que falhas comunicacionais, subnotificação de eventos e registros incompletos constituem fatores recorrentes na origem de acidentes e quase-acidentes. A inexistência de um fluxo padronizado de reporte dificulta a identificação de padrões de risco, limita a visibilidade das áreas críticas e reduz a capacidade das equipes de agir preventivamente de forma consistente.
+
+No contexto organizacional, essas fragilidades são agravadas por fatores culturais e operacionais, como a baixa integração entre setores, a dependência de processos manuais e a falta de retorno estruturado sobre as ocorrências registradas. Como resultado, informações relevantes deixam de circular adequadamente, impedindo que lições aprendidas sejam compartilhadas e incorporadas às rotinas de trabalho.
+
+Além disso, métodos tradicionais de controle, como formulários em papel, planilhas isoladas ou sistemas genéricos, não oferecem monitoramento contínuo, histórico confiável nem rastreabilidade completa do ciclo de vida das ocorrências. Essa limitação dificulta auditorias, análises críticas e a tomada de decisão baseada em evidências, especialmente em ambientes industriais de maior complexidade operacional.
+
+Diante desse cenário, observa-se a necessidade de soluções digitais capazes de centralizar informações, padronizar o reporte de riscos e integrar diferentes perfis de usuários em um mesmo ambiente, promovendo maior transparência, agilidade e eficiência na gestão preventiva. O contexto apresentado evidencia que a ausência de sistemas estruturados de comunicação de riscos não é apenas uma limitação operacional, mas um fator crítico que impacta diretamente a segurança, a conformidade e a sustentabilidade das organizações.
