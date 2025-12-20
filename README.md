@@ -302,14 +302,7 @@ Este projeto é de propriedade acadêmica e foi desenvolvido como Projeto Integr
 ## 📞 Contato
 
 Para mais informações sobre o projeto, entre em contato através dos canais abaixo.
-
+https://www.linkedin.com/in/mateusalvescosta/
 ---
 
-<div align="center">
-  
-**RepairFast** - Transformando a gestão de segurança industrial através da tecnologia
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://linkedin.com](https://www.linkedin.com/in/mateusalvescosta/))
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:mateuscosta3497@gmail.com)
-
-</div>
